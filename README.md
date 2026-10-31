@@ -22,3 +22,7 @@ docker run -d -p 3000:80 \
 Truy cập: http://localhost:3000
 
 Docker Hub: https://hub.docker.com/r/phamthanhduy/frontend
+
+## URL triển khai
+- Backend API: https://api-235847.onrender.com
+- Health check: https://api-235847.onrender.com/health
